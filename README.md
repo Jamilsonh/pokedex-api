@@ -17,5 +17,5 @@ Site desenvolvido para simular uma pokedex, fazendo conexão com uma API (POKEAP
 
 ### 📋 Status Do Projeto
 
-- Finalizado ✔️
+- Em desenvolvimento ...
 
