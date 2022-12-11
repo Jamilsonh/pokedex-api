@@ -7,6 +7,7 @@ Site desenvolvido para simular uma pokedex, fazendo conexão com uma API (POKEAP
 - REACT
 - REACT ROUTER DOM
 - AXIOS
+- API (POKEAPI)
 
 ### 🔧 Comandos Necessários
 
