@@ -1,0 +1,29 @@
+.container-information {
+    display: flex;
+    width: 350px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(253, 253, 189);
+    border-radius: 30px;
+}
+
+.subcontainer-information {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 22px;
+    width: 90%;
+    text-transform: uppercase;
+}
+
+.container-submenu-information {
+    width: 100%;
+    height: 170px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 5px;
+}

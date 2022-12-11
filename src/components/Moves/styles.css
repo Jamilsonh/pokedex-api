@@ -1,0 +1,30 @@
+.container-moves {
+    display: flex;
+    width: 350px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(253, 253, 189);
+    border-radius: 30px;
+}
+
+.subcontainer-submenu-moves {
+    display: flex;
+    height: 170px;
+    flex-wrap: wrap;
+    width: 350px;
+    align-items: center;
+    justify-content: center;
+}
+
+.subcontainer-moves {
+    display: flex;
+    width: 170px;
+    height: 25px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
