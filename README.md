@@ -10,9 +10,9 @@ Site desenvolvido para simular uma pokedex, fazendo conexão com uma API (POKEAP
 
 ### 🔧 Comandos Necessários
 
-- npm install || yarn
-- npm install react-router-dom@6 || yarn add react-router-dom@6
-- npm install axios || yarn add axios
+- npm install | or | yarn
+- npm install react-router-dom@6 | or | yarn add react-router-dom@6
+- npm install axios | or | yarn add axios
 
 ### 📋 Status Do Projeto
 
