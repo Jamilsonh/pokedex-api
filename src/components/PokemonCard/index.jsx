@@ -53,7 +53,7 @@ export default function PokemonCard({ name, image, types, id, abilities, showLin
                     </div>
 
                     <div>
-                        {showLink && <Link className='link' to={`/poke/${id}`}>Detalhes</Link>}
+                        {showLink && <Link className='link' to={`/poke/${id}`}>-- SHOW MORE --</Link>}
                     </div>      
                 </div>
                 

@@ -8,6 +8,14 @@
     margin-right: auto;
     flex-wrap: wrap;
     background-color: rgb(26, 26, 32);
+
+   
+}
+
+@media (max-width: 800px) {
+    .container {
+        width: 400px;
+    } 
 }
 
 .container--poke {
@@ -16,6 +24,13 @@
     justify-content: center;
     flex-wrap: wrap;
     border: 1px solid;
+    width: 100%; 
+}
+
+@media screen and(width: 800px) {
+    .container--poke {
+        width: 50%;
+    }
     
 }
 
